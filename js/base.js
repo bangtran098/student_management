@@ -1,0 +1,6 @@
+export const BASE_URL = "http://svcy.myclass.vn/api/SinhVien/"
+export const GET_LIST_STUDENT_URL = "LayDanhSachSinhVien"
+export const GET_STUDENT_BY_ID_URL = "LayThongTinSinhVien"
+export const UPDATE_STUDENT_URL = "CapNhatThongTinSinhVien"
+export const ADD_NEW_STUDENT_URL = "ThemSinhVien"
+export const DELETE_STUDENT_BY_ID_URL = "XoaSinhVien"
